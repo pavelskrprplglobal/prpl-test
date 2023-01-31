@@ -28,6 +28,7 @@ const Popup: FC<IPopupProps> = ({ title, show, onClose, children }) => {
         'overlay': true,
         'overlay--state-visible': visible,
       })}
+      onClick={closeHandler}
     >
       <div className="popup">
         <div className="popup__header">
