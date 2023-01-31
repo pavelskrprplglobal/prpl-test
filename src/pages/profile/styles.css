@@ -1,0 +1,26 @@
+.profile-page {
+  font-size: 0.9em;
+  line-height: 1.5em;
+  padding: 2.5em 1.5em;
+  margin: 0 auto;
+
+  color: var(--color-text-primary);
+}
+
+.profile__title {
+
+}
+
+.profile__content {
+  padding: 1em 0;
+}
+
+.profile-page__title > h2 {
+  margin: 0 0 0.25em;
+  display: inline-block;
+  vertical-align: top;
+
+  font-weight: 900;
+  font-size: 2em;
+  line-height: 1;
+}

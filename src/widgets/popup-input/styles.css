@@ -1,0 +1,12 @@
+.popup-input {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  width: 100%;
+}
+
+@media screen and (max-width: 768px) {
+  .popup-input {
+    justify-content: flex-end;
+  }
+}

@@ -1,0 +1,33 @@
+.button {
+  border: 0;
+  padding: 0.5em 1em;
+  border-radius: 0.5em;
+
+  background-color: white;
+  color: white;
+}
+
+.button:focus {
+  outline: none;
+}
+
+.button:hover {
+  cursor: pointer;
+  transform: scale(1.03);
+}
+
+.button:active {
+  transform: scale(.98);
+}
+
+.button--state-primary {
+  background-color: var(--color-primary);
+}
+
+.button--state-secondary {
+  background-color: var(--color-secondary);
+}
+
+.button--state-danger {
+  background-color: var(--color-danger);
+}

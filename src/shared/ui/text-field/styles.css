@@ -1,0 +1,28 @@
+.text-field {
+  width: 100%;
+  box-sizing: border-box;
+  position: relative;
+  padding: 0.5em;
+  border-radius: var(--border-radius-primary);
+
+  border: 1px solid var(--color-background-secondary);
+}
+
+.text-field > label {
+  position: absolute;
+  background-color: var(--color-background-primary);
+  top: -0.6em;
+
+  font-size: 0.8em;
+  color: var(--color-text-primary);
+}
+
+.text-field > input {
+  border: 1px solid var(--color-background-secondary);
+  padding: 0.5em;
+  width: 100%;
+  box-sizing: border-box;
+
+  color: var(--color-text-primary);
+  font-size: 1em;
+}
