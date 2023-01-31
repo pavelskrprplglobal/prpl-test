@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/prpl-test/static/css/main.cbe4fbf2.css",
+    "main.js": "/prpl-test/static/js/main.9679687b.js",
+    "static/css/12.f9d09ddc.chunk.css": "/prpl-test/static/css/12.f9d09ddc.chunk.css",
+    "static/js/12.43463354.chunk.js": "/prpl-test/static/js/12.43463354.chunk.js",
+    "static/css/38.8527d724.chunk.css": "/prpl-test/static/css/38.8527d724.chunk.css",
+    "static/js/38.471931f1.chunk.js": "/prpl-test/static/js/38.471931f1.chunk.js",
+    "static/js/931.9d3b6d3f.chunk.js": "/prpl-test/static/js/931.9d3b6d3f.chunk.js",
+    "static/js/787.534450cc.chunk.js": "/prpl-test/static/js/787.534450cc.chunk.js",
+    "index.html": "/prpl-test/index.html",
+    "main.cbe4fbf2.css.map": "/prpl-test/static/css/main.cbe4fbf2.css.map",
+    "main.9679687b.js.map": "/prpl-test/static/js/main.9679687b.js.map",
+    "12.f9d09ddc.chunk.css.map": "/prpl-test/static/css/12.f9d09ddc.chunk.css.map",
+    "12.43463354.chunk.js.map": "/prpl-test/static/js/12.43463354.chunk.js.map",
+    "38.8527d724.chunk.css.map": "/prpl-test/static/css/38.8527d724.chunk.css.map",
+    "38.471931f1.chunk.js.map": "/prpl-test/static/js/38.471931f1.chunk.js.map",
+    "931.9d3b6d3f.chunk.js.map": "/prpl-test/static/js/931.9d3b6d3f.chunk.js.map",
+    "787.534450cc.chunk.js.map": "/prpl-test/static/js/787.534450cc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbe4fbf2.css",
+    "static/js/main.9679687b.js"
+  ]
+}
